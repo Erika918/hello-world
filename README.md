@@ -1,3 +1,3 @@
 # hello-world
 erikacursohtml
-sou  erika estou realizando curso de desenvolvedor
+Sou  Erika sou um desenvolvedor de asoftware com 2 anos de experiencia na criação de aplicativos e soluções de software,Minhas principais areas de interesse como desenvolvimento movel machine learning, etc...
